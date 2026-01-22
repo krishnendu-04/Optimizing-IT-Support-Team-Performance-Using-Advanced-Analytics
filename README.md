@@ -1,51 +1,47 @@
 
-📌 PROBLEM STATEMENT :
+## 📌 PROBLEM STATEMENT :
 
 IT support teams handle a large volume of service tickets daily. Delays in resolution, poor prioritization, and inefficient workload distribution can negatively impact user satisfaction and operational efficiency.
 This project focuses on analyzing IT support ticket data to identify performance bottlenecks, measure efficiency using key metrics, and provide data-driven insights that help improve response times, resolution rates, and overall service quality.
 
-📂 DATASET DESCRIPTION :
+## 📂 DATASET DESCRIPTION :
 
-🔗 Data Source:
+### 🔗 Data Source:
 
- 📄 What the Data Contains :
+### 📄 What the Data Contains :
  
- 🧱 Key Columns :
+### 🧱 Key Columns :
 
 
-📈 KPIs USED :
+## 📈 KPIs USED :
 
-📊 DASHBOARDS :
+## 📊 DASHBOARDS :
 
-1️⃣title
+### 1️⃣title
 
-Purpose:
+  - #### Purpose:
+  - #### Includes:
 
-Includes:
+#### Helps to...
 
-Helps to...
+### 2️⃣title
 
-2️⃣title
+  - #### Purpose:
+  - #### Includes:
 
-Purpose:
-
-Includes:
-
-Helps to...
-
+#### Helps to...
 3️⃣title
 
-Purpose:
+  - #### Purpose:
+  - #### Includes:
 
-Includes:
+#### Helps to...
 
-Helps to...
+## 🔍 KEY INSIGHTS :
 
-🔍 KEY INSIGHTS :
+## 💡 RECOMMENDATIONS :
 
-💡 RECOMMENDATIONS :
-
-🛠 TOOLS USED :
+## 🛠 TOOLS USED :
 
   - Data Analysis & Cleaning : Python (Pandas)
   - Data Visualization: Power BI
@@ -53,6 +49,6 @@ Helps to...
   - Platform: Jupyter Notebook
   - Documentation: GitHub
 
-📌 CONCLUSION : 
+## 📌 CONCLUSION : 
 
 
