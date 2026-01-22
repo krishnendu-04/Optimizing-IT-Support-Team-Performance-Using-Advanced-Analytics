@@ -1,4 +1,23 @@
 WEEK 3
 
-We learnt about the relevance of live data import and documentation. Setup our GitHub Repo.
-Live data import is relevant and important since the companies are the 
+We learnt about the relevance of live data import,ETL and documentation. Setup our GitHub Repo.
+
+LIVE DATA IMPORT :
+  - is relevant and important since the companies/businesses need to analyse the consequences of their business ideas / decisions.
+  - We can't get live data of a company without an organizational access. So we'll have to use CRM services to 
+    * synthesize or 
+    * use dummy data 
+  and create an API end point.
+
+ETL Pipeline :
+  - Pipeline : flow of work
+  - ETL : Extract,transform and load
+
+Revision :
+    • data cleaning - powerbi, python
+    • EDA - understand the questions 
+    • import live data
+        • public url - directly import using web
+          • organizational access
+            • API key - endpoint using key to access
+            • ETL pipelines - workflow,smooth & consistent, automated
