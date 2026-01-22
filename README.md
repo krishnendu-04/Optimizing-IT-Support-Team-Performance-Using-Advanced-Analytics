@@ -1,3 +1,4 @@
+# Optimizing IT Support Team Performance Using Analytics
 
 ## 📌 PROBLEM STATEMENT :
 
@@ -17,20 +18,20 @@ This project focuses on analyzing IT support ticket data to identify performance
 
 ## 📊 DASHBOARDS :
 
-### 1️⃣title
+### 1. title
 
   - #### Purpose:
   - #### Includes:
 
 #### Helps to...
 
-### 2️⃣title
+### 2. title
 
   - #### Purpose:
   - #### Includes:
 
 #### Helps to...
-3️⃣title
+### 3. title
 
   - #### Purpose:
   - #### Includes:
