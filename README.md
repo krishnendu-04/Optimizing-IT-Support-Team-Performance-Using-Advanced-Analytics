@@ -4,20 +4,20 @@ This project focuses on analyzing IT support ticket data to identify performance
 
 ---
 
-## 📌 PROBLEM STATEMENT :
+## 📌 PROBLEM STATEMENT
 
 IT support teams handle a large volume of service tickets daily. Delays in resolution, poor prioritization, and inefficient workload distribution can negatively impact user satisfaction and operational efficiency.
 
 ---
 
-## 📂 DATASET DESCRIPTION :
+## 📂 DATASET DESCRIPTION 
 
 This dataset represents IT support service desk tickets, from ticket creation to first response,resolution and closure. It helps to analyze SLA compliance,workload patterns, service efficiency and performance of an IT support team.
 
 The dataset is suitable for analysis using Python and Power BI.
 ### 🔗 Data Source: [Kaggle](https://www.kaggle.com/datasets/suvroo/technical-support-dataset/data)
 
-### 📄 What the Data Contains : 
+### 📄 What the Data Contains 
 Number of rows: 2330
 
 Number of columns: 22
@@ -33,7 +33,7 @@ The dataset includes the information regarding:
  - Creation and response time
  - Agent group handling the ticket
    
-### 🧱 Key Columns :
+### 🧱 Key Columns 
 Status - Current state of the ticket  
 Priority - Urgency level of the ticket  
 Source - Channel used to raise the ticket  
@@ -50,11 +50,11 @@ Country - Country from which the ticket was raised
 
 ---
 
-## 📈 KPIs USED :
+## 📈 KPIs USED 
 
 ---
 
-## 👩🏻‍💻 DASHBOARDS :
+## 👩🏻‍💻 DASHBOARDS 
 
 ### 1. title
 
@@ -78,15 +78,15 @@ Country - Country from which the ticket was raised
 
 ---
 
-## 🔍 KEY INSIGHTS :
+## 🔍 KEY INSIGHTS 
 
 ---
 
-## 💡 RECOMMENDATIONS :
+## 💡 RECOMMENDATIONS 
 
 ---
 
-## 🛠 TOOLS USED :
+## 🛠 TOOLS USED 
 
   - Data Handling : Python (Pandas,NumPy)
   - Data Visualization: Power BI, matplotlib, seaborn, plotly
@@ -94,6 +94,6 @@ Country - Country from which the ticket was raised
 
 ---
 
-## 📌 CONCLUSION : 
+## 📌 CONCLUSION 
 
 
