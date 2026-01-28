@@ -1,4 +1,4 @@
-# Optimizing IT Support Team Performance Using Analytics
+# Optimizing IT Support Team Performance Using Adavanced Analytics
 
 This project focuses on analyzing IT support ticket data to identify performance bottlenecks, measure efficiency using key metrics, and provide data-driven insights that help improve response times, resolution rates, and overall service quality.
 
