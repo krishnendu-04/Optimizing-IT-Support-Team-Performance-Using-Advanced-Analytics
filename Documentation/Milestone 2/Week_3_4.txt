@@ -24,26 +24,30 @@ Revision :
 
 WEEK 4
 
-KPI - key performance indicator - it indicates the performance of certain relevant parameter.
-Types of data: numerical, categorical, time based.
-Relevance of data type depends on the project.
-To compare 2 categorical data we use bar chart.
-To understand the proportions of each divisions of category we use pie chart
-     •(Max 5-6 categories for pie chart)
-     •Sum of all the proportions=100
-     •avoid precise calculation (it rounds up the %).
-Cards - quick glimpse of numerical value.
-Most of the cards in dashboard are KPI.
+• KPI - key performance indicator - it indicates the performance of certain relevant parameter.
+• Types of data: numerical, categorical, time based.
+• Relevance of data type depends on the project.
 
-Time based - values vary over time 
-Line chart
+• To compare 2 categorical data we use bar chart.
+• To understand the proportions of each divisions of category we use pie chart
+     - Max 5-6 categories for pie chart (easy to interpret)
+     - sum of all the proportions = 100
+     - avoid precise calculation (it rounds up the %)
 
-Model view- primary key & foreign key, star schema
-Working with multiple tables
-Relationship between tables- 1° key and foreign key
-Related tables can be connected
-Fact table is connected to dimension tables
-Dimension tables contain in-depth details
-Relationships many to one(* to 1)
-One to many
-One to one
+• Cards - quick glimpse of numerical value.
+        - Most of the cards in dashboard are KPI
+
+• Time based - values vary over time 
+             - Line chart for visualization
+
+• Model view - primary key & foreign key, star schema
+• While working with multiple tables
+      - Relationship between tables- 1° key and foreign key
+      - Related tables can be connected
+      - Fact table is connected to dimension tables
+      - Dimension tables contain in-depth details
+      - Relationships 
+            * Many to one(* to 1)
+            * One to many
+            * One to one
+            * Many to many
