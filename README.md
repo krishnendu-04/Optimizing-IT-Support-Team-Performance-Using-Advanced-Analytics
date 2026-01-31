@@ -15,8 +15,8 @@ IT support teams handle a large volume of service tickets daily. Delays in resol
 This dataset represents IT support service desk tickets, from ticket creation to first response,resolution and closure. It helps to analyze SLA compliance,workload patterns, service efficiency and performance of an IT support team.
 
 The dataset is suitable for analysis using Python and Power BI.
-### 🔗 Data Source
- [Kaggle](https://www.kaggle.com/datasets/suvroo/technical-support-dataset/data)
+### 🔗 Data Source 
+### [Kaggle](https://www.kaggle.com/datasets/suvroo/technical-support-dataset/data)
 
 ### 📄 What the Data Contains 
 Number of rows: 2330
