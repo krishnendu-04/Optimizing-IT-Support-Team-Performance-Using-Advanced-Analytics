@@ -21,7 +21,7 @@ DAX - DATA ANALYSIS EXPRESSION
 
   * Understanding some terms:
     • Revenue (the  money a company makes) = total profit + total cost
-    • Profit - the money the company gains = Revenue - profit
+    • Profit - the money the company gains = Revenue - cost
 
   * Measure:
     • Measure is not a part of the table
