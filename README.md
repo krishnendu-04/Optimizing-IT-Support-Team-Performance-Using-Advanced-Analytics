@@ -52,6 +52,10 @@ Country - Country from which the ticket was raised
 ---
 
 ## 📈 KPIs USED 
+Total Tickets
+Average Resolution Time
+Closed Tickets
+SLA Not Met
 
 ---
 
