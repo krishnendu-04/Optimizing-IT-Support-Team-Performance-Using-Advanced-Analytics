@@ -83,9 +83,9 @@ SLA Not Met
 
 ## 🛠 TOOLS USED 
 
-  - Data Handling : Python (Pandas,NumPy)
-  - Data Visualization: Power BI, matplotlib, seaborn, plotly
-  - Documentation: Jupyter Notebook, PDF Report, GitHub Repository
+  - Data Handling : Python (Pandas)
+  - Data Visualization: Power BI
+  - Documentation: Jupyter Notebook, GitHub Repository
 
 ---
 
