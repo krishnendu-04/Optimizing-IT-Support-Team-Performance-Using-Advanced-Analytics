@@ -1,1 +1,1 @@
-API_KEY = 'ABCD'
+API_KEY = https://mock-api-srm8.onrender.com/api/tickets
