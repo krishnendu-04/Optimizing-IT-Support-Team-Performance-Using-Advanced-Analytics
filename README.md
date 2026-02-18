@@ -19,34 +19,24 @@ The dataset is suitable for analysis using Python and Power BI.
 ### [Kaggle](https://www.kaggle.com/datasets/suvroo/technical-support-dataset/data)
 
 ### 📄 What the Data Contains 
-Number of rows: 2330
+Number of rows: 50
 
-Number of columns: 22
+Number of columns: 7
 
 Each row of the dataset represents an one support ticket. 
 
 The dataset includes the information regarding:
- - Status and source of the channel of the ticket
+ - Status of the ticket
  - Geographic information
- - Support level and number of interactions with the agent
  - Priority and Category of the ticket
- - SLA Complaince of the ticket
- - Creation and response time
- - Agent group handling the ticket
+ - Creation and resolution time
    
 ### 🧱 Key Columns 
 Status - Current state of the ticket  
-Priority - Urgency level of the ticket  
-Source - Channel used to raise the ticket  
-Topic - Type of issue reported  
-Agent Group - Support team assigned to the ticket  
-Created Time - Timestamp when the ticket was created  
-First Response Time	- Timestamp of the first agent response  
-Resolution Time	- Timestamp when the issue was resolved  
-Close Time	- Timestamp when the ticket was formally closed  
-Agent Interactions - Number of interactions required to resolve the ticket  
-Product Group - Product or service related to the issue  
-Support Level - Tier handling the ticket  
+Priority - Urgency level of the ticket   
+Created At - Timestamp when the ticket was created  
+Resolution Time	- Hours it took to solve the issue
+Category - Service related to the issue
 Country - Country from which the ticket was raised
 
 ---
