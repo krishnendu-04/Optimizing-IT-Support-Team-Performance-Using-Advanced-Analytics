@@ -54,7 +54,7 @@ Ticket Status Distribution
 
 ---
 
-## 👩🏻‍💻 DASHBOARDS 
+## 👩🏻‍💻 DASHBOARD  
 
 ### 1. IT SUPPORT OPERATIONS MONITORING & SLA PERFORMANCE OPTIMIZATION  
 
