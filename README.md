@@ -20,7 +20,7 @@ IT support teams handle a large volume of service tickets daily. Delays in resol
 
 
 ### 📄 Python Dataset (Data Cleaning & Preprocessing)
-Number of rows: 50  
+Number of rows: 22  
 Number of columns: 2330  
 Each row of the dataset represents one support ticket. 
 
