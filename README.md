@@ -11,19 +11,48 @@ IT support teams handle a large volume of service tickets daily. Delays in resol
 ---
 
 ## 📂 DATASET DESCRIPTION 
-
-This dataset represents IT support service desk tickets, from ticket creation to first response,resolution and closure. It helps to analyze SLA compliance,workload patterns, service efficiency and performance of an IT support team.
-
-The dataset is suitable for analysis using Python and Power BI.
 ### 🔗 Data Source 
-### [LIVE API](https://mock-api-srm8.onrender.com/api/tickets)
 
-### 📄 What the Data Contains 
-Number of rows: 50
+#### Python Cleaning (Static Dataset) : [Kaggle – Technical Support Dataset](https://www.kaggle.com/datasets/suvroo/technical-support-dataset)
+#### PowerBI Dashboard (Live API Data): [Live Ticket API Endpoint](https://mock-api-srm8.onrender.com/api/tickets)
 
-Number of columns: 7
+#### Note: A static CSV dataset was used for data cleaning and preprocessing in Python, while a live REST API was used in Power BI to simulate real-time ticket monitoring.  
 
-Each row of the dataset represents an one support ticket. 
+
+### 📄 Python Dataset (Data Cleaning & Preprocessing)
+Number of rows: 50  
+Number of columns: 2330  
+Each row of the dataset represents one support ticket. 
+
+The dataset includes the information regarding:
+ - Source and Status of the ticket  
+ - Geographic information  
+ - Agent group and agent name handling the ticket  
+ - Expected SLA to resolve,SLA for resolution and for first response  
+ - First response time and SLA for first respnse  
+ - Priority and topic,product group of the ticket  
+ - Creation and resolution time  
+ - Agent interactions and survey results  
+ - Support level,latitude and longitude of the ticket  
+   
+#### 🧱 Key Columns 
+Status – Current state (Open, Closed, Resolved, etc.)  
+Priority – Urgency level of the ticket  
+Source – Channel through which the ticket was raised  
+Topic – Issue classification  
+Created time – When the ticket was created  
+First response time – Time taken for initial response  
+Resolution time – Total time taken to resolve the issue  
+Expected SLA to first response – Target time for first response  
+Expected SLA to resolve – Target resolution time  
+SLA For first response – Whether first response SLA was met  
+SLA For Resolution – Whether resolution SLA was met  
+Close time – Final closure timestamp  
+
+### 📄 Power BI Dataset (Live Dashboard Data)
+Number of rows: 50  
+Number of columns: 7  
+Each row of the dataset represents one support ticket. 
 
 The dataset includes the information regarding:
  - Status of the ticket
@@ -31,7 +60,7 @@ The dataset includes the information regarding:
  - Priority and Category of the ticket
  - Creation and resolution time
    
-### 🧱 Key Columns 
+#### 🧱 Key Columns 
 Status - Current state of the ticket  
 Priority - Urgency level of the ticket   
 Created At - Timestamp when the ticket was created  
@@ -41,7 +70,7 @@ Country - Country from which the ticket was raised
 
 ---
 
-## 📈 KPIs USED  
+## 📈 KPIs USED FOR THE DASHBOARD
 Total Tickets  
 Average Resolution Time  
 Closed Tickets  
